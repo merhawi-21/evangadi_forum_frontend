@@ -1,0 +1,42 @@
+
+
+.banner{
+  /* background-image: url('../../assets/images/howitwork_banner.jpg'); */
+  background-color: rgb(233, 235, 238);
+  
+}
+.container{
+  margin: 0 4%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+  
+  
+}
+
+.title{
+  padding-top: 1%;
+  width: 100%;
+  height: 100%;
+  background-position: bottom;
+  
+}
+
+.title h1{
+  padding: 4% 3% 6% 19%;
+  font-weight: 700;
+  font-size: 45px;
+}
+
+.description_wrapper{
+  width: 80%;
+  margin: auto;
+
+}
+
+.catagories{
+  padding-left: 30px;
+}
+
+.description_wrapper h3{
+  font-size: 18px;
+}
